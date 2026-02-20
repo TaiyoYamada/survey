@@ -2,19 +2,11 @@
 
 量子コンピューティング・量子アルゴリズム・機械学習に関するサーベイをまとめたリポジトリです.
 
-A repository summarizing surveys on quantum computing, quantum algorithms, and machine learning.
-
-
 ## Abstract
 
 - これは読んだ論文をサーベイ時の時系列順にまとめたものです.
 - 日記のように, 読んだ論文の概要と感想を記録しています.
 - 対象分野としては, 量子コンピューティング・量子アルゴリズム・機械学習を中心に, 幅広い関連分野の論文を扱っています.
-
-- This is a chronological summary of papers I have read.
-- I record summaries and impressions of papers as a research diary.
-- The main areas of interest include quantum computing, quantum algorithms, and machine learning, along with a wide range of related fields.
-
 
 
 ## Main Interest
@@ -31,7 +23,7 @@ A repository summarizing surveys on quantum computing, quantum algorithms, and m
 
 ## Main Conferences & Journals
 
-### 量子コンピューティング / Quantum Computing
+### 量子コンピューティング
 
 | 略称 | 正式名称 |
 |------|----------|
@@ -43,7 +35,7 @@ A repository summarizing surveys on quantum computing, quantum algorithms, and m
 | Quantum | Quantum |
 | Quantum Sci. Technol. | Quantum Science and Technology |
 
-### 機械学習 (理論寄り) / Machine Learning (Theory)
+### 機械学習 (理論寄り)
 
 | 略称 | 正式名称 |
 |------|----------|
@@ -55,7 +47,7 @@ A repository summarizing surveys on quantum computing, quantum algorithms, and m
 | COLT | Annual Conference on Computational Learning Theory |
 | UAI | Conference on Uncertainty in Artificial Intelligence |
 
-### 機械学習 (応用寄り) / Machine Learning (Applied)
+### 機械学習 (応用寄り)
 
 | 略称 | 正式名称 |
 |------|----------|
@@ -63,7 +55,7 @@ A repository summarizing surveys on quantum computing, quantum algorithms, and m
 | AAAI | AAAI Conference on Artificial Intelligence |
 | IJCAI | International Joint Conference on Artificial Intelligence |
 
-### 和文 / Japanese
+### 和文
 
 | 略称 | 正式名称 |
 |------|----------|
@@ -77,7 +69,7 @@ A repository summarizing surveys on quantum computing, quantum algorithms, and m
 | WWW | The Web Conference |
 | WSDM | ACM International Conference on Web Search and Data Mining |
 
-### 自然言語処理 / Natural Language Processing
+### 自然言語処理
 
 | 略称 | 正式名称 |
 |------|----------|
@@ -85,7 +77,7 @@ A repository summarizing surveys on quantum computing, quantum algorithms, and m
 | EMNLP | Conference on Empirical Methods in Natural Language Processing |
 | NAACL | Annual Conference of the North American Chapter of the ACL |
 
-### 画像処理 / Computer Vision
+### 画像処理
 
 | 略称 | 正式名称 |
 |------|----------|
@@ -93,7 +85,7 @@ A repository summarizing surveys on quantum computing, quantum algorithms, and m
 | ICCV | IEEE/CVF International Conference on Computer Vision |
 | ECCV | European Conference on Computer Vision |
 
-### 最適化 / Optimization
+### 最適化
 
 | 略称 | 正式名称 |
 |------|----------|
@@ -101,7 +93,7 @@ A repository summarizing surveys on quantum computing, quantum algorithms, and m
 | SIOPT | SIAM Journal on Optimization |
 | OR | Operations Research |
 
-### 統計 / Statistics
+### 統計
 
 | 略称 | 正式名称 |
 |------|----------|
@@ -110,7 +102,7 @@ A repository summarizing surveys on quantum computing, quantum algorithms, and m
 | Biometrika | Biometrika |
 | JASA | Journal of the American Statistical Association |
 
-### 情報理論・物理 / Information Theory & Physics
+### 情報理論・物理
 
 | 略称 | 正式名称 |
 |------|----------|
@@ -124,5 +116,3 @@ A repository summarizing surveys on quantum computing, quantum algorithms, and m
 - 基本的に要約は個人的なメモであり, 誤りを含んでいる可能性があります. ご注意ください.
 - 図は各論文から引用させて頂いています.
 
-- These summaries are personal notes and may contain errors. Please be cautious.
-- Figures are cited from each respective paper.
