@@ -1,11 +1,1 @@
 .DS_Store
-*.aux
-*.log
-*.out
-*.synctex.gz
-*.fdb_latexmk
-*.fls
-*~
-*.swp
-*.swo
-.vscode/
